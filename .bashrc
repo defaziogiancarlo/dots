@@ -1,7 +1,7 @@
 alias shattuck='ssh defazio1@192.168.1.203'
 alias alehouse='ssh defazio1@192.168.1.67'
 alias emacs='emacs -nw'
-alias emcas='emacs'
+alias emcas='emacs -nw'
 alias emasc='emacs -nw'
 alias eamcs='emacs -nw'
 alias eamsc='emacs -nw'

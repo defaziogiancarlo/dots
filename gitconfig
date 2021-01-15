@@ -1,0 +1,11 @@
+[user]
+	email = defazio1@llnl.gov
+	name = Gian-Carlo DeFazio
+[core]
+	editor = emacs -nw
+[color]
+	ui = always
+[alias]
+	dc = describe --contains
+	b = branch -v
+	l = log --graph --oneline --decorate --all --date=short

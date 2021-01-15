@@ -20,14 +20,6 @@ export LESS_TERMCAP_ue=$'\E[0m'
 export LESS_TERMCAP_us=$'\E[01;32m'
 
 export CSCOPE_EDITOR='emacs -nw'
-alias ll='cd ~/lustre-release'
-
-# remove trailing whitespace
-alias rtw="$LINUX_TREE/scripts/cleanfile"
-
-alias mylfs="~/lustre-release/lustre/utils/lfs"
-alias mylctl="~/lustre-release/lustre/utils/lctl"
-
 
 PROMPT_COMMAND=__prompt_command # Func to gen PS1 after CMDs
 
